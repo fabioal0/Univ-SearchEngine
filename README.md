@@ -1,6 +1,6 @@
 # Univ-SearchEngine
 
-Is a text indexer and search engine with evaluation methods. The indexer implements a SPIMI algorithm with linguistic processing (tockenizer, stemming, etc.) and scoring/ranking methods (TF-IFD, bm25).
+Is a text indexer and search engine with evaluation methods. The indexer implements a SPIMI algorithm with linguistic processing (tokenizer, stemming, etc.) and scoring/ranking methods (TF-IFD, bm25).
 
 ## File to process
 
