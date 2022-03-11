@@ -1,8 +1,5 @@
-from distutils.log import error
 import math
-from platform import system
 import statistics
-import sys
 from timeit import default_timer as timer
 from tokenizer import *
 from indexer import *
