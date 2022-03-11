@@ -1,5 +1,7 @@
 # Univ-SearchEngine
 
+https://ai2-semanticscholar-cord-19.s3-us-west-2.amazonaws.com/2020-12-01/metadata.csv
+
 Instructions on running the program:
 1) create a folder named "Indice" at the same directory level as the "main.py" file.
 2) run the "main.py" file.
